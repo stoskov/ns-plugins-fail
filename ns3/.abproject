@@ -1,0 +1,28 @@
+{
+  "ProjectName": "ns3",
+  "ProjectGuid": "3196f365-693f-4f4a-9cd1-0d335f0cd2bd",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ns3",
+  "DisplayName": "ns3",
+  "Author": "",
+  "Description": "ns3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.5.2",
+  "Framework": "NativeScript"
+}
